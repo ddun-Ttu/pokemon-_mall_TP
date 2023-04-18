@@ -123,5 +123,17 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
-a:link { color: #262626; text-decoration: none;}
-a:visited { color: #262626; text-decoration: none;}
+a:link {
+  color: #262626;
+  text-decoration: none;
+}
+a:visited {
+  color: #262626;
+  text-decoration: none;
+}
+
+div,
+input,
+textarea {
+  box-sizing: border-box;
+}
