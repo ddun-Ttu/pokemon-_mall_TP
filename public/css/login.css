@@ -1,0 +1,24 @@
+.container-login {
+    position: relative;
+}
+
+.form-login > form > h3 {
+    text-align: center;
+    padding: 20px;
+    font-size: 26px;
+    font-weight: 700;
+    color: #FFC737;
+}
+.form-login {
+    background-color: rgb(255, 242, 242);
+    position: absolute;
+    padding: 20px 90px 20px 90px;
+    width: 50%;
+    max-width: 650px;
+    margin: 80px;
+    left : 0;
+    right : 0; 
+    margin-left : auto;
+    margin-right : auto;
+    top: 50px;
+}
